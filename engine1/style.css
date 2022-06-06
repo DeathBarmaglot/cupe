@@ -8,8 +8,8 @@
 	zoom: 1; 
 	position: relative;
 	width: 100%;
-	max-width: 420px;
-	max-height:150px;
+	max-width: 300px;
+	max-height:180px;
 	margin:0px auto 0px;
 	z-index:90;
 	text-align:left; /* reset align=center */
